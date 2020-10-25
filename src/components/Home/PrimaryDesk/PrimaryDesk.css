@@ -1,0 +1,9 @@
+.marquee-container marquee {
+    background-color: #002147;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+.marquee-container marquee p:hover {
+    color: yellow;
+}

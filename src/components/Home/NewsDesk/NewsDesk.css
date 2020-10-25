@@ -1,0 +1,11 @@
+.news-container h5 {
+    background: #c0c0c0;
+    color: #000;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.news-container h5:hover {
+    color: yellow;
+}

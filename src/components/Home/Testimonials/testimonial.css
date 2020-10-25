@@ -1,0 +1,42 @@
+.card1 {
+    background-image: linear-gradient(45deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../../images/images/photo1.jpg");
+}
+.card2 {
+    background-image: linear-gradient(45deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../../images/images/photo2.jpg");
+}
+.card3 {
+    background-image: linear-gradient(45deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../../images/images/campus.jpg");
+}
+.card4 {
+    background-image: linear-gradient(45deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../../images/images/photo3.jpg");
+}
+.card5 {
+    background-image: linear-gradient(45deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../../images/images/photo4.jpg");
+}
+
+.cards {
+    height: 200px;
+    border-radius: 10px;
+    color: #fff;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    cursor: pointer;
+}
+
+.cards h5 {
+    margin-top: 20px;
+    padding-top: 80px;
+}
+
+.cards:hover h5 {
+    color: #fff !important;
+}
+
+.cards:hover {
+    background-image: linear-gradient(75deg, #19d3ae, #0fcfec);
+    color: #fff !important;
+    transition: all 0.2s ease-in-out !important;
+    transform: scale(1.1) !important;
+    box-shadow: 40px 40px 80px lightgray;
+}

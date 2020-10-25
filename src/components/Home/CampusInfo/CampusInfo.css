@@ -1,0 +1,12 @@
+.info {
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    margin: 10px 0;
+    padding: 20px;
+}
+
+.map-container .map {
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    height: 15em;
+}

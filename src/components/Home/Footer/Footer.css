@@ -1,0 +1,18 @@
+.footer-container {
+    background-color: #002147;
+    border-radius: 10px;
+}
+
+.footer-container ul li {
+    list-style-type: none;
+    line-height: 3rem;
+}
+
+.footer-container ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer-container ul li a:hover {
+    color: yellow;
+}

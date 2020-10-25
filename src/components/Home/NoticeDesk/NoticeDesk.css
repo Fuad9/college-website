@@ -1,0 +1,15 @@
+.notice-container {
+    border-radius: 10px;
+}
+
+.notice-container h4 {
+    background-color: #002147;
+    border-radius: 10px;
+    color: #fff;
+    padding: 0.5em;
+    text-align: center;
+}
+
+.notice-container marquee p:hover {
+    color: yellow;
+}
